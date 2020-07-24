@@ -1,16 +1,11 @@
-# my_notes
 
-A new Flutter application.
 
-## Getting Started
+![1](https://user-images.githubusercontent.com/62851500/88437426-1f1c4880-ce0f-11ea-869a-79c06e20adf4.png)
 
-This project is a starting point for a Flutter application.
+My Notes is a simple note taking app to help boost productivity.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Add Note
+- Edit Note
+- Delete Note
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
